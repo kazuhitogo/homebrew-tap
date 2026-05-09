@@ -1,6 +1,6 @@
 cask "peekr" do
-  version "1.6.0"
-  sha256 "a15cc924fd53082c1db0ce597bb09f0cfc68d37d896fbd17cc9d77752bcf5940"
+  version "1.7.0"
+  sha256 "914a15cbfbf3dbeec35bcde2476bf08fa54706e2616e2bc79a4b27908406ff32"
 
   url "https://github.com/kazuhitogo/mac-peekr/releases/download/v#{version}/Peekr_v#{version}.zip"
   name "Peekr"
